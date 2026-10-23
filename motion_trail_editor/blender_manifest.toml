@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+
+id = "motion_trail_editor"
+version = "0.6.0"
+name = "Motion Trail Editor"
+tagline = "Motion trails, saved selections, tween, onion skin and more"
+maintainer = "Beku"
+type = "add-on"
+
+blender_version_min = "4.3.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+tags = ["Animation"]
